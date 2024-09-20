@@ -21,6 +21,7 @@
                 .catch(err => console.log('Error fetching geo data: ', err))
         } else {
             data.value = []
+            selectedLocation.value = null;
         }
     }
 
@@ -61,6 +62,7 @@
     .form {
         display: flex;
         flex-direction: column;
+        align-items: center;
         gap: 10px;
         position: relative;
     }
