@@ -1,0 +1,1 @@
+{"root":["./src/main.ts","./src/vite-env.d.ts","./src/types/locationtype.ts","./src/utils/api.ts","./src/utils/dates.ts","./src/app.vue","./src/components/helloworld.vue","./src/components/searchbar.vue","./src/components/weatherdisplay.vue"],"version":"5.6.2"}
